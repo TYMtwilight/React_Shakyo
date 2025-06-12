@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './shyakyo-1/App';
+import App from './shakyo-2/App';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -10,4 +10,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
