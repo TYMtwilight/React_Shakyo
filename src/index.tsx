@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import App from "./shakyo-15/App";
+import App from "./shakyo-16/App";
 
 const container = document.getElementById("root")!; // '!'は null でないことを保証
 const root = createRoot(container);
